@@ -1,2 +1,4 @@
-source: "https://github.com/edmondyip/SVG-Morpheus"
-repository: "https://github.com/edmondyip/SVG-Morpheus"
+ encoding: 'UTF-8'
+
+baseurl: '/SVG-Morpheus'
+repository: 'https://github.com/edmondyip/SVG-Morpheus'
